@@ -4,7 +4,7 @@ This application is the result of a Frontend challenge, where we were asked to c
 
 This application uses Vue.js and 100% pure CSS without any framework. Also, it adjusts to different screen sizes ensuring that all the content is accessible on mobile, tablet and desktop views.
 
-You can find a version of this application at [link].
+You can find a version of this application at [https://chicks-challenge.netlify.app/](https://chicks-challenge.netlify.app/).
 
 ## Getting Started
 
