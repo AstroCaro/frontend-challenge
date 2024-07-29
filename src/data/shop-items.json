@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "name": "Flare Gun",
+    "price": 562.50000,
+    "salePrice": 0,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 0,
+    "imagePath": "src/assets/shop-items/item-flare-gun.png",
+    "defaultAmount": 0,
+    "gameId": 1,
+    "game": {
+      "id": "id",
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Training Droid",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-holocam.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "HoloDancer",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-holodancer.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "HoloDancer",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-stap.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "games/swtor.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "HoloCam",
+    "price": 600.50000,
+    "salePrice": 0,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 10,
+    "imagePath": "src/assets/shop-items/item-training-droid.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Flare Gun",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-flare-gun.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": "id",
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Training Droid",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-holocam.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "HoloDancer",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-holodancer.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "HoloDancer",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-stap.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "games/swtor.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "HoloCam",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-training-droid.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Flare Gun",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-flare-gun.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": "id",
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Training Droid",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-holocam.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "HoloDancer",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-holodancer.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "HoloDancer",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-stap.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "games/swtor.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "HoloCam",
+    "price": 562.50000,
+    "salePrice": 450.00000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "quantity": 5,
+    "imagePath": "src/assets/shop-items/item-training-droid.png",
+    "defaultAmount": 1,
+    "gameId": 1,
+    "game": {
+      "id": 1,
+      "name": "Star Wars The Old Republic",
+      "shortNmae": "SWTOL",
+      "gameIcon": "src/assets/games/swtor.png"
+    }
+  }
+]
